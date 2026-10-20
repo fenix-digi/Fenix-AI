@@ -1,0 +1,6 @@
+{
+  "name": "Mitra AI - मराठी व बहुभाषिक AI सहाय्यक",
+  "description": "स्मार्ट मराठी व बहुभाषिक वैयक्तिक AI सहाय्यक - संभाषण, अभ्यास, लेखन, कोडिंग, शेती सल्ला व आवाज सहाय्य.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
